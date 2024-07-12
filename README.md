@@ -3,7 +3,7 @@
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--NZMLmld6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/me3nxdmslvhtffb2nn4c.gif" alt="Coding img" align="right"  width="400">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dipendujana5&label=Profile%20views&color=0e75b6&style=flat" alt="dipendujana5" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dipendujana5&label=Profile%20views&color=0e75b6&style=flat" alt="dipendujana" /> </p>
 
 <p align="left">
 
