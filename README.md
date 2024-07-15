@@ -9,7 +9,6 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/Dipendu_Jana](https://linktr.ee/Dipendu_Jana)
 
 - 📫 How to reach me **dipendujana05@gmail.com**
 
@@ -28,5 +27,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dipendujana5&show_icons=true&locale=en" alt="dipendujana5" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dipendujana5&" alt="dipendujana" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dipendujana&" alt="dipendujana" /></p>
 
